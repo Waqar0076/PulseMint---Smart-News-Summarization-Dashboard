@@ -1,0 +1,24 @@
+# Core Web App Framework
+streamlit==1.40.0
+
+# Data Handling
+pandas==2.2.3
+numpy==1.26.4
+
+# Visualization
+plotly==5.24.1
+
+# JSON and Date Handling (standard in Python but noted for clarity)
+python-dateutil==2.9.0.post0
+
+# Text Processing
+regex==2024.9.11
+
+# Miscellaneous Utilities
+requests==2.32.3
+
+# Optional: For better performance and compatibility on some platforms
+watchdog==4.0.2
+
+# If running inside Streamlit Cloud or needing charts responsiveness
+altair==5.3.0
