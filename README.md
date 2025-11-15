@@ -52,10 +52,13 @@ Show only favorites
 Upload your own scraped dataset (formatted like **enhanced_news_scraping_results.json**).
 
 **🏗️ Tech Stack**
-Component	Technology
-Frontend	Streamlit
-Backend	Python
-Data Storage	Local JSON files
-NLP	Custom frequency-based extractive summarizer
-Visualization	Plotly Express
-Others	Pandas, Regex, Collections
+
+** Component     | Technology        **                           
+
+**Frontend      | Streamlit                                   
+Backend       | Python                                       
+Data Storage  | Local JSON files                             
+NLP           | Custom frequency-based extractive summarizer 
+Visualization | Plotly Express                               
+Others        | Pandas, Regex, Collections**                   
+
