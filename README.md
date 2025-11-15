@@ -73,8 +73,8 @@ InsightBot/
 
 **⚙️ Installation & Setup**
 **Clone the repository**
-git clone https://github.com/yourusername/insightbot.git
-cd insightbot
+[git clone https://github.com/Waqar0076/PulseMint---Smart-News-Summarization-Dashboard.git]
+cd PulseMint
 
 **Install dependencies**
 pip install -r requirements.txt
