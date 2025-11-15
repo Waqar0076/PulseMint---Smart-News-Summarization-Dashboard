@@ -1,0 +1,17 @@
+{
+    "users": {
+        "admin": {
+            "password": "admin",
+            "role": "admin"
+        },
+        "user": {
+            "password": "user",
+            "role": "user"
+        },
+        "khan": {
+            "password": "khan",
+            "role": "user"
+        }
+    },
+    "pending_users": {}
+}
