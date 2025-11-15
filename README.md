@@ -62,3 +62,33 @@ NLP           | Custom frequency-based extractive summarizer
 Visualization | Plotly Express                               
 Others        | Pandas, Regex, Collections**                   
 
+**Project Structure**
+InsightBot/
+│
+├── enhanced_news_scraping_results.json   # Main scraped dataset
+├── users.json                            # Authentication database
+├── user_favorites.json                   # Favorites tracking
+├── app.py                                # Main Streamlit application
+└── README.md
+
+**⚙️ Installation & Setup**
+**Clone the repository**
+git clone https://github.com/yourusername/insightbot.git
+cd insightbot
+
+**Install dependencies**
+pip install -r requirements.txt
+
+**Run the Streamlit app**
+streamlit run app.py
+
+**Requirements**
+streamlit==1.40.0
+pandas==2.2.3
+numpy==1.26.4
+plotly==5.24.1
+python-dateutil==2.9.0.post0
+regex==2024.9.11
+requests==2.32.3
+watchdog==4.0.2
+altair==5.3.0
